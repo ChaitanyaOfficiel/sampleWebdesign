@@ -8,3 +8,7 @@ please check out the tutorial on youtube. To learn specifiy
 1. css grid 
 2. css flexbox 
 3. custom properties 
+
+---
+Note : all images are taken from the pixbay.com 
+
